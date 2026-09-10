@@ -1,0 +1,10 @@
+# ==========================================
+# Config
+# ==========================================
+
+core:
+  # The backend server port
+  port: 3000
+  
+  # print in the nodejs console
+  debug: false
